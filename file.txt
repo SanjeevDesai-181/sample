@@ -1,3 +1,10 @@
 hello world
 
 new line adedd
+
+Opaus Model on GitHub Copilot Student Subscription:
+Yes, students with a GitHub Copilot student subscription (via GitHub Education)
+can access the Opus (opaus) model through GitHub Copilot.
+To use it, select the model from the model picker in your Copilot-enabled editor
+(e.g., VS Code, JetBrains, or GitHub.com Copilot Chat).
+Make sure your GitHub Education student benefit is active and linked to your account.
